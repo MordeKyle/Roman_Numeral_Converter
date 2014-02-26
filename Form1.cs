@@ -8,20 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-//      *Change Log*
-//     02/19/2014 @ 02:43
-//      created Repository
-//      created Convert, Clear, and Exit buttons
-//      created text box for user input
-//      created label for output of data
-//      convert on click
-//       created try and catch
-//       created local variables
-//       created if, else, and else if statements
-//      clear on click
-//       clear input and output fields
-//      exit on click
-//       thise.close();
+//Program: Roman Numeral Converter
+//Author: Kyle McBride A02609917
+//Date: 02/19/2014
+//Description: User enters a number 1-10 and the program outputs the roman numeral form of the entered number.
+// SEE CHANGELOG IN SOLUTION DIRECTORY
 
 
 namespace Roman_Numeral_Converter
